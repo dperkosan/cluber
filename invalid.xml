@@ -1,0 +1,13 @@
+<Example Start="PRINTING" Prompt="YES" AutoClose="YES" SkipUnverified="NO" Test="NO">
+    <Package ID="1">
+        <MailClass>NONE</MailClass>
+        <PackageType>ENVELOPE</PackageType>
+        <WeightOz>1</WeightOz>
+        <FleetType>DC</FleetType>
+    <Package ID="2">
+        <MailClass>NONE</MailClass>
+        <PackageType>ENVELOPE</PackageType>
+        <WeightOz>1</WeightOz>
+        <FleetType>DC/FleetType>
+    </Package>
+</Example>
